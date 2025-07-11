@@ -20,10 +20,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享方法论',
   HEO_HERO_TITLE_2: '与成长认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  HEO_HERO_TITLE_3: 'https://www.gri.wang',
   HEO_HERO_TITLE_4: 'PM_成长研究所网站1.0上线',
   HEO_HERO_TITLE_5: '欢迎加入我的知识星球',
-  HEO_HERO_TITLE_LINK: 'https://www.gri.wang',
+  HEO_HERO_TITLE_LINK: 'https://wx.zsxq.com/group/15554251418852?group_id=15554251418852&secret=64fhgik72718570uwm2gv4470y3l2su4&inviter_id=818548525224242&inviter_sid=k49lrmz9m1&share_from=ShareToWechat&keyword=eZg3Y&type=group',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
